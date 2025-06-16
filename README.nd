@@ -1,0 +1,19 @@
+# 🕹️ Juego Piedra, Papel o Tijera
+
+## 👨‍💻 Desarrollado por:
+Elizabeth Cardona
+
+## 🎯 Descripción del proyecto:
+Este proyecto fue realizado como parte del desarrollo de la asignatura de **Lógica de Programación**. Es un juego de consola donde el jugador compite contra la computadora en el clásico juego de **Piedra, Papel o Tijera**, utilizando estructuras condicionales, repetitivas y manejo de entrada/salida.
+
+## 🛠️ Funcionalidades implementadas:
+
+- ✅ Jugador vs Computadora
+- ✅ Uso de diccionarios para emojis
+- ✅ Estructuras condicionales (`if`, `elif`, `else`)
+- ✅ Ciclos (`while`)
+- ✅ Librerías estándar: `random`, `time`
+- ✅ Mensajes claros y animación básica
+- ✅ Código comentado para fácil comprensión
+
+## 📁 Estructura del proyecto
